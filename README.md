@@ -5,7 +5,7 @@
 - I am also proficient in using mongodb though I can also use MySQL for databases.
 - I am also learning ReactJS and after that I want to venture into React Native for mobile app development.
 - 💞️ I’m looking to collaborate on developing websites and mobile apps. 
-- 📫 To reach me call or whatsApp: +254712439166  Twitter handle: @IamKariuki189  email: kariukibenard189@gmail.com
+- 📫 To reach me call or whatsApp: +254712439166  Twitter handle: @IamKariukiKE  email: kariukibenard189@gmail.com
 
 <!---
 Kariqs/Kariqs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
