@@ -1,6 +1,6 @@
 - Hi, I’m Benard Kariuki
 - I’m experienced in building android apps and websites.
-- I am currently building websites using NodeJs and Express for Backend Development.
+- I proficient in NodeJS and Express for Backend Development.
 - I am also proficient in using mongodb though I can also use MySQL for databases.
 - I am also a mobile app developer.
 - I’m looking to collaborate on developing websites and mobile apps. 
